@@ -8,9 +8,10 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
+    "generate": "nuxt generate",
     "start": "nuxt start",
     "test": "echo \"Error: no test specified\" && exit 0",
-    "deploy": "push-dir --dir=.nuxt/dist --branch=master --cleanup"
+    "deploy": "push-dir --dir=dist --branch=master --cleanup"
   },
   "author": "Sanjay Nair",
   "license": "MIT",
