@@ -3,22 +3,22 @@
   "all": [
     "img/headshot.7c1af7f.jpg",
     "img/logo.5ec5e1e.png",
-    "pages/index.5adaa60dd266f73f0a91.js",
+    "pages/index.abe07e9c99f20b9c3d02.js",
     "layouts/default.c605bf7c8c94c47a9469.js",
     "vendor.d17a7d70dff237f3090d.js",
     "app.65c73279b5639ae57cb4.js",
-    "manifest.54add395980e468ced94.js",
+    "manifest.b977e5cce2dec36851d7.js",
     "LICENSES",
     "index.spa.html",
     "index.ssr.html"
   ],
   "initial": [
-    "manifest.54add395980e468ced94.js",
+    "manifest.b977e5cce2dec36851d7.js",
     "vendor.d17a7d70dff237f3090d.js",
     "app.65c73279b5639ae57cb4.js"
   ],
   "async": [
-    "pages/index.5adaa60dd266f73f0a91.js",
+    "pages/index.abe07e9c99f20b9c3d02.js",
     "layouts/default.c605bf7c8c94c47a9469.js"
   ],
   "modules": {

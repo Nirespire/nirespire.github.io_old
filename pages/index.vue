@@ -14,11 +14,9 @@
       <div class="row">
         <div class="column column-50 column-offset-25 center">
           <p>
-            I love reading technology and development blogs. 
-            I also love discussing cool ideas and current events. 
-            As a result I decided to make a blog to throw all my 
-            thoughts at and (hopefully) provide a platform to talk 
-            intelligently about cool projects I’m working on.
+            I am a software engineer based out of Atlanta, Georgia.
+            I enjoy working with full stack teams on value driven projects.
+            In my spare time I work on personal projects including coding apps, giving tech talks, and writing articles.
           </p>
         </div>
       </div>
