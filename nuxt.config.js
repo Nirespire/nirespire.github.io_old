@@ -1,4 +1,8 @@
 module.exports = {
+    generate: {
+      fallback: true,
+      fallback: '404.html'
+    },
     head: {
         title: "Sanjay Nair - Personal Website",
         link: [

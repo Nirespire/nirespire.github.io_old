@@ -1,10 +1,9 @@
 {
   "name": "sanjaynair.me",
+  "author": "Sanjay Nair <sanjayhnair@gmail.com>",
+  "license": "MIT",
   "version": "1.0.0",
-  "description": "Personal website. Built using the nuxt.js SSG.",
-  "dependencies": {
-    "nuxt": "^1.4.0"
-  },
+  "description": "Personal website. Built using the nuxt.js static site generator",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -13,8 +12,9 @@
     "test": "echo \"Error: no test specified\" && exit 0",
     "deploy": "push-dir --dir=dist --branch=master --cleanup"
   },
-  "author": "Sanjay Nair",
-  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^1.4.0"
+  },
   "devDependencies": {
     "push-dir": "^0.4.1"
   }
