@@ -16,7 +16,7 @@
           <p>
             I am a software engineer based out of Atlanta, Georgia.
             I enjoy working with full stack teams on value driven projects.
-            In my spare time I like to work on personal projects like building software, giving tech talks, and writing.
+            In my spare time I like to work on personal projects like building software, speaking about tech, and writing.
           </p>
         </div>
       </div>
@@ -27,7 +27,12 @@
 
         <div class="column center">
           <div><h3><i class="fab fa-medium fa-fw icon-link"></i><a href="https://medium.com/@nirespire" target="_blank">Articles</a></h3></div>
-          <div><h3><i class="fab fa-youtube fa-fw icon-link"></i><a href="https://www.youtube.com/playlist?list=PLEes72Fb4Ddh27N8XIbD7RQFaKwxPWCE3" target="blank">Talks</a></h3></div>
+          <div><h3>
+            <i class="fab fa-youtube fa-fw icon-link"></i>
+            <a href="https://www.youtube.com/playlist?list=PLEes72Fb4Ddh27N8XIbD7RQFaKwxPWCE3" target="blank">Talks</a>
+            |
+            <a href="https://www.youtube.com/playlist?list=PLEes72Fb4DdiRQ1Jxs9AG0ynJUAWJHp5S" target="blank">Live Coding</a>
+          </h3></div>
           <div><h3><i class="fab fa-twitter fa-fw icon-link"></i><a href="https://twitter.com/Nirespire" target="_blank">Twitter</a></h3></div>
           <div><h3><i class="fab fa-linkedin fa-fw icon-link"></i><a href="https://www.linkedin.com/in/sanjaynair8/" target="_blank">LinkedIn</a></h3></div>
           <div><h3><i class="fab fa-github-square fa-fw icon-link"></i><a href="https://github.com/Nirespire" target="_blank">Github</a></h3></div>
@@ -72,12 +77,18 @@ body,
 }
 
 .headshot {
-  height: 200px;
-  width: 200px;
+  height: 205px;
+  width: 205px;
   border-radius: 50%;
+  border: 5px solid black
 }
 
 .icon-link {
   text-align: left;
+}
+
+a:hover { 
+    background-color: lightgray;
+    color: white;
 }
 </style>
